@@ -1,0 +1,56 @@
+@import './var.scss';
+@import './keyframes.scss';
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+  line-height: 1;
+}
+
+body{
+  background-color: $brand-black;
+  height: 100%;
+  min-height: 100vh;
+  display: flex;
+  justify-content: space-between;
+  padding-top: 30px;
+  overflow-x: hidden;
+
+  &.container{
+    padding-top: 30px;
+  }
+}
+
+img.lazy{
+  transition: .3s;
+  opacity: 0;
+
+  &.loaded{
+    opacity: 1;
+  }
+}
+
+// ::-webkit-scrollbar {
+//   width: 1em;
+// }
+ 
+// ::-webkit-scrollbar-track {
+//   box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+// }
+ 
+// ::-webkit-scrollbar-thumb {
+//   background-color: darkgrey;
+//   outline: 1px solid slategrey;
+// }
+// libs
+@import './libs/toastify.scss';
+
+// components
+@import './components/container.scss';
+@import './components/catalog.scss';
+@import './components/main-sidebar.scss';
+@import './components/main-content.scss';
+@import './components/toastify.scss';
+@import './components/overlay.scss';

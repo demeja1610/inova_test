@@ -1,0 +1,124 @@
+{
+  "catalog" : [
+    {
+      "id" : 1,
+      "image" : "/images/13rw.jpg",
+      "webp" : "/images/webp/13rw.webp",
+      "title" : "13 причин почему",
+      "seasons" : "4",
+      "episodes" : "8",
+      "liked" : "25",
+      "disliked" : "4",
+      "kinopoisk" : "7.0",
+      "imdb" : "7.7"
+    },
+    {
+      "id" : 2,
+      "image" : "/images/911.jpg",
+      "webp" : "/images/webp/911.webp",
+      "title" : "911 Служба спасения",
+      "seasons" : "3",
+      "episodes" : "18",
+      "liked" : "38",
+      "disliked" : "5",
+      "kinopoisk" : "7.5",
+      "imdb" : "7.7"
+    },
+    {
+      "id" : 3,
+      "image" : "/images/amlt.jpg",
+      "webp" : "/images/webp/amlt.webp",
+      "title" : "Миллион мелочей",
+      "seasons" : "2",
+      "episodes" : "19",
+      "liked" : "9",
+      "disliked" : "1",
+      "kinopoisk" : "6.3",
+      "imdb" : "6.0"
+    },
+    {
+      "id" : 4,
+      "image" : "/images/cm.jpg",
+      "webp" : "/images/webp/cm.webp",
+      "title" : "Мыслить как преступник",
+      "seasons" : "15",
+      "episodes" : "10",
+      "liked" : "25",
+      "disliked" : "2",
+      "kinopoisk" : "7.9",
+      "imdb" : "7.8"
+    },
+    {
+      "id" : 5,
+      "image" : "/images/ahs.jpg",
+      "webp" : "/images/webp/ahs.webp",
+      "title" : "Американская история ужасов",
+      "seasons" : "9",
+      "episodes" : "9",
+      "liked" : "42",
+      "disliked" : "1",
+      "kinopoisk" : "9.0",
+      "imdb" : "8.7"
+    },
+    {
+      "id" : 6,
+      "image" : "/images/cr.jpg",
+      "webp" : "/images/webp/cr.webp",
+      "title" : "Касл-Рок",
+      "seasons" : "2",
+      "episodes" : "10",
+      "liked" : "25",
+      "disliked" : "3",
+      "kinopoisk" : "7.3",
+      "imdb" : "7.9"
+    },
+    {
+      "id" : 7,
+      "image" : "/images/br.jpg",
+      "webp" : "/images/webp/br.webp",
+      "title" : "Барри",
+      "seasons" : "2",
+      "episodes" : "8",
+      "liked" : "35",
+      "disliked" : "6",
+      "kinopoisk" : "7.5",
+      "imdb" : "6.9"
+    },
+    {
+      "id" : 8,
+      "image" : "/images/hl.jpg",
+      "webp" : "/images/webp/hl.webp",
+      "title" : "Хильда",
+      "seasons" : "2",
+      "episodes" : "13",
+      "liked" : "55",
+      "disliked" : "8",
+      "kinopoisk" : "8.2",
+      "imdb" : "8.0"
+    },
+    {
+      "id" : 9,
+      "image" : "/images/aved.jpg",
+      "webp" : "/images/webp/aved.webp",
+      "title" : "Эш против Зловещих мертвецов",
+      "seasons" : "3",
+      "episodes" : "10",
+      "liked" : "23",
+      "disliked" : "9",
+      "kinopoisk" : "7.9",
+      "imdb" : "8.4"
+    },
+    {
+      "id" : 10,
+      "image" : "/images/ag.jpg",
+      "webp" : "/images/webp/ag.webp",
+      "title" : "Американские боги",
+      "seasons" : "3",
+      "episodes" : "8",
+      "liked" : "33",
+      "disliked" : "2",
+      "kinopoisk" : "7.3",
+      "imdb" : "7.8"
+    }
+  ]
+}

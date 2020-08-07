@@ -1,0 +1,17 @@
+.main-content{
+  display: flex;
+  flex-grow: 1;
+  width: 100%;
+}
+
+@media(max-width: 880px){
+  .main-content{
+    padding: 0 15px;
+  }
+}
+
+@media(max-width: 530px){
+  .main-content{
+    padding: 0;
+  }
+}
