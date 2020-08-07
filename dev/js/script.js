@@ -53,17 +53,17 @@ function fillCatalog(data){
       `<div class="catalog__item-controls">
         <button class="catalog__item-favorite catalog__item-favorite--like">
           <svg class="catalog__item-favorite-icon" width="20" height="20">
-            <use xlink:href="/images/svg/sprite.svg#icon-heart"></use>
+            <use xlink:href="images/svg/sprite.svg#icon-heart"></use>
           </svg>
         </button>
         <button class="catalog__item-favorite catalog__item-favorite--remove" title="Удалить из избранного">
           <svg class="catalog__item-favorite-icon" width="20" height="20">
-            <use xlink:href="/images/svg/sprite.svg#icon-close"></use>
+            <use xlink:href="images/svg/sprite.svg#icon-close"></use>
           </svg>
         </button>
         <button class="catalog__item-play">
           <svg class="catalog__item-play-icon" width="30" height="30">
-            <use xlink:href="/images/svg/sprite.svg#icon-play"></use>
+            <use xlink:href="images/svg/sprite.svg#icon-play"></use>
           </svg>
         </button>
         <picture class="catalog__item-image">
@@ -78,13 +78,13 @@ function fillCatalog(data){
       <div class="catalog__item-scores">
         <button class="catalog__item-like">
           <svg class="catalog__item-like-icon" width="16" height="16">
-            <use xlink:href="/images/svg/sprite.svg#icon-like"></use>
+            <use xlink:href="images/svg/sprite.svg#icon-like"></use>
           </svg>
           ${item.liked}
         </button>
         <button class="catalog__item-dislike">
           <svg class="catalog__item-dislike-icon" width="16" height="16">
-            <use xlink:href="/images/svg/sprite.svg#icon-dislike"></use>
+            <use xlink:href="images/svg/sprite.svg#icon-dislike"></use>
           </svg>
           ${item.disliked}
         </button>
